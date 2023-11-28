@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Diario de Classe</string>
+    <string name="nome">Nome</string>
+    <string name="login">Login</string>
+    <string name="senha">Senha</string>
+    <string name="login_erro">Login Incorreto</string>
+    <string name="senha_erro">Senha Incorreta</string>
+    <string name="confirmarSenha">Confirmar Senha</string>
+</resources>
