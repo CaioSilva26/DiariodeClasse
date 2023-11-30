@@ -69,7 +69,7 @@ fun TelaLogin(
                 value = login,
                 onValueChange = { login = it },
                 idtexto =   if(logarErro)
-                                R.string.login_erro
+                                R.string.logar_erro
                             else
                                 R.string.login ,
                 isError = logarErro
@@ -78,7 +78,7 @@ fun TelaLogin(
                 value = senha,
                 onValueChange = { senha = it },
                 idtexto =   if(logarErro)
-                                R.string.senha_erro
+                                R.string.logar_erro
                             else
                                 R.string.senha ,
                 isError = logarErro
