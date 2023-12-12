@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1033219855340",
+    "project_id": "bahg-2a7d5",
+    "storage_bucket": "bahg-2a7d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033219855340:android:6f1780a4319dc1bd29a6c9",
+        "android_client_info": {
+          "package_name": "com.example.diariodeclasse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXK-RjEs18qoBEtnL9iVsG8mKylRiITDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
